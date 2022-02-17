@@ -1,0 +1,601 @@
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    outline: none;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    background: linear-gradient(to right, rgba(243, 55, 106, 1), rgba(255, 129, 190, 1));
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-left-width: medium;
+}
+
+.startplay>.content,
+.startplay>.content>.main-content {
+    display: flex;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-bottom-width: medium;
+}
+
+.hopek{
+    color: white;
+    font-size: 50px;
+    font-family: initial;
+}
+
+.startplay>.content {
+    background-size: cover;
+}
+
+.startplay>.content>.main-content {
+    flex-direction: column;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-right-width: medium;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-top-width: medium;
+}
+
+.startplay>.content>.main-content>h3,
+.startplay>.content>.main-content>h2,
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    color: white;
+}
+
+.startplay>.content {
+    background-repeat: no-repeat;
+}
+
+.startplay>.content>.main-content>h2,
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button,
+.startplay>.content>.main-content>h3 {
+    font-family: GothamPro;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-left-style: none;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-bottom-style: none;
+}
+
+.startplay>.content>.main-content>h2 {
+    font-weight: 500;
+}
+
+.startplay>.content {
+    background-position: center;
+}
+
+.startplay>.content>.main-content,
+.startplay>.content {
+    justify-content: center;
+}
+
+.startplay>.content>.main-content>h2 {
+    font-size: 6vh;
+}
+
+.startplay>.content>.main-content>h2,
+.startplay>.content>.main-content>h3 {
+    text-align: left;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-right-style: none;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-top-style: none;
+}
+
+[class~=mobile-closeicon] {
+    background-image: url("../img/icons/bars-white.svg");
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-left-color: currentColor;
+}
+
+.startplay>.content {
+    background-image: url("../img/start/background.jpg");
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-bottom-color: currentColor;
+}
+
+.startplay,
+.startplay>.content {
+    height: 100%;
+}
+
+.startplay>.content>.main-content {
+    align-items: flex-start;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-right-color: currentColor;
+}
+
+.startplay>.content>.main-content>h2 {
+    line-height: .85;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-top-color: currentColor;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    border-image: none;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    font-weight: 400;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button,
+.startplay>.content>.main-content>h3 {
+    font-size: 1.65vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button,
+.startplay>.content>.main-content,
+.startplay>.content {
+    position: relative;
+}
+
+.startplay>.content {
+    flex-direction: row;
+}
+
+.startplay>.content>.main-content>h3 {
+    font-weight: 300;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    padding-left: 3.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    padding-bottom: 1.75vh;
+}
+
+.startplay>.content {
+    align-items: center;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    padding-right: 3.5vh;
+}
+
+.startplay>.content>.main-content>h3 {
+    line-height: 1.5;
+}
+
+.startplay>.content>.main-content>h3 {
+    margin-top: 2.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a {
+    margin-top: 2.75vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    padding-top: 1.75vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    overflow: hidden;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    transition: text-shadow 500ms ease, box-shadow 500ms ease;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button {
+    box-shadow: -.5vh 1vh 5vh .5vh rgba(255, 129, 190, .65);
+}
+
+.startplay>.content {
+    width: 100%;
+}
+
+.startplay>.content>.main-content {
+    z-index: 1;
+}
+
+.startplay>.content {
+    margin-top: 11.25vh;
+}
+
+.startplay>.content>.main-content {
+    width: 35%;
+}
+
+.startplay>.content>.main-content {
+    left: 7vh;
+}
+
+.startplay {
+    background-color: white;
+}
+
+@keyframes blink {
+    from {
+        left: -15%;
+    }
+
+    to {
+        left: 115%;
+    }
+}
+
+.startplay>.content>.main-content>.reqs>.req,
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    display: flex;
+}
+
+.startplay>.content>.main-content>a>button:hover {
+    cursor: pointer;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3,
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h2,
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    color: white;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h2,
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3,
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    font-family: GothamPro;
+}
+
+.startplay>.content>.main-content>a>button:hover {
+    text-shadow: 0 0 .1vw rgba(255, 255, 255, .5);
+}
+
+.startplay>.content>.main-content>.reqs>.req {
+    flex-direction: column;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    flex-direction: row;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    font-weight: 400;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h2 {
+    font-weight: 300;
+}
+
+.startplay>.content>.main-content>.reqs>.req {
+    justify-content: flex-start;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    justify-content: space-between;
+}
+
+.startplay>.content>.main-content>.reqs>.req {
+    align-items: flex-start;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    content: "";
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    background: linear-gradient(to right, transparent, rgba(255, 255, 255, .075), rgba(255, 255, 255, .125), rgba(255, 255, 255, .075), transparent);
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    align-items: center;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    margin-left: 5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    font-size: 1vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=one] {
+    width: 2.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle],
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after,
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle] {
+    position: absolute;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=one] {
+    height: 7vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=one] {
+    background-image: url("../img/start/particles/particle-1.png");
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    position: relative;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p,
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h2 {
+    text-align: left;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    width: 100%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    letter-spacing: 2vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs] {
+    margin-top: 1.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    margin-top: 2.75vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    z-index: 2;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=one] {
+    top: 10vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=one] {
+    left: -4vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    left: -15%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=three],
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two] {
+    width: 8.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    width: 50%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h2 {
+    font-size: 1.35vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    top: 0;
+}
+
+.startplay>.content>.main-content>a>button:hover {
+    box-shadow: -.5vh 1vh 5vh .5vh rgba(255, 129, 190, .75);
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>p {
+    line-height: 1.5;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle],
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle],
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    background-size: contain;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two],
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=three] {
+    height: 3vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    height: 100%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=three],
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two] {
+    background-image: url("../img/start/particles/particle-3.png");
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two] {
+    top: -5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop],
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle],
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    background-repeat: no-repeat;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two] {
+    left: 9vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle],
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle] {
+    background-position: center;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle] {
+    z-index: 0;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=two] {
+    transform: scaleY(-1);
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3 {
+    font-weight: 200;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    width: 15%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=three] {
+    top: 6vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    height: 110%;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    width: 6vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    height: 6vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle][class~=three] {
+    right: 19vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:after {
+    transform: skew(-15deg);
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    background-image: url("../img/start/particles/particle-4.png");
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    bottom: 14vh;
+}
+
+.startplay>.content>.main-content>.particle.four {
+    width: 2.25vh;
+}
+
+.startplay>.content>.main-content>.particle.four {
+    height: 2.25vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop]>[class~=particle] {
+    left: 6vh;
+}
+
+.startplay>.content>.main-content>.particle.four {
+    background-image: url("../img/start/particles/particle-2.png");
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3 {
+    font-size: 1.25vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    background-position: bottom;
+}
+
+.startplay>.content>.main-content>.particle.four {
+    bottom: 14.5vh;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3 {
+    text-align: left;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3 {
+    margin-top: .5vh;
+}
+
+.startplay>.content>.main-content>.particle.four {
+    left: 45%;
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>[class~=reqs]>[class~=req]>h3 {
+    line-height: 1.3;
+}
+
+[class~=startplay]>[class~=content]>[class~=laptop] {
+    background-image: url("../img/start/laptop.png");
+}
+
+[class~=startplay]>[class~=content]>[class~=main-content]>a>button:hover:after {
+    animation: blink 500ms 1 ease;
+}
+
+@media screen and (max-device-aspect-ratio: 4/3) {
+    [class~=startplay]>[class~=content]>[class~=main-content] {
+        width: 50%;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=main-content] {
+        left: 0;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=main-content] {
+        z-index: 2;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        position: absolute;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        z-index: 1;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        filter: blur(.5vh);
+    }
+
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        opacity: .35;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        right: 0;
+    }
+}
+
+@media screen and (orientation: portrait) {
+
+    .startplay>.content>.main-content>a>button,
+    .startplay>.content>.main-content>a {
+        width: 100%;
+    }
+
+    .startplay>.content>.main-content>a>button {
+        padding-left: 0;
+    }
+
+    .startplay>.content {
+        margin-top: 0;
+    }
+
+    .startplay>.content>.main-content {
+        width: 90%;
+    }
+
+    .startplay>.content>.main-content>a>button {
+        padding-right: 0;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=main-content]>[class~=particle],
+    [class~=startplay]>[class~=content]>[class~=laptop] {
+        display: none;
+    }
+
+    [class~=startplay]>[class~=content]>[class~=main-content]>p {
+        letter-spacing: .75vh;
+    }
+}
