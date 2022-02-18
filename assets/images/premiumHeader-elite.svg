@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="50" viewBox="0 0 186 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df9d31" stop-opacity="0"/>
+      <stop offset="1" stop-color="#df9e31"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4ab39"/>
+      <stop offset="1" stop-color="#dc962d"/>
+    </linearGradient>
+  </defs>
+  <g id="top_panel" data-name="top panel" transform="translate(-232 -280)">
+    <path id="Path_2078" data-name="Path 2078" d="M412.766,280.031l-10,10,14.734.219Z" transform="translate(-170.75)" fill="#373737"/>
+    <path id="Path_2077" data-name="Path 2077" d="M408,280l9.984,10.047-15.234.2Z" fill="#373737"/>
+    <g id="Path_2076" data-name="Path 2076" transform="translate(232 290)" fill="url(#linear-gradient)">
+      <path d="M0,0H186L159.333,30h-133Z" stroke="none"/>
+      <path d="M 2.2083740234375 1.000001907348633 L 26.78582763671875 29 L 158.8839416503906 29 L 183.7731475830078 1.000001907348633 L 2.2083740234375 1.000001907348633 M 0 1.9073486328125e-06 L 186 1.9073486328125e-06 L 159.3330078125 30 L 26.33299255371094 30 L 0 1.9073486328125e-06 Z" stroke="none" fill="rgba(255,255,255,0.35)"/>
+    </g>
+    <g id="Path_2075" data-name="Path 2075" transform="translate(242 280)" fill="url(#linear-gradient-2)">
+      <path d="M0,0H166L146,50H20Z" stroke="none"/>
+      <path d="M 1.477035522460938 1 L 20.67703247070313 49 L 145.3229675292969 49 L 164.5229644775391 1 L 1.477035522460938 1 M 0 0 L 166 0 L 146 50 L 20 50 L 0 0 Z" stroke="none" fill="rgba(255,255,255,0.35)"/>
+    </g>
+  </g>
+</svg>
